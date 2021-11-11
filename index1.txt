@@ -2,4 +2,7 @@
 <title>
 This is only an example
 </title>
+<body>
+<h1>Hopefully this is not an example</h1>
+</body>
 </html>
